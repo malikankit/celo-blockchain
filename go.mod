@@ -1,4 +1,4 @@
-module github.com/ethereum/go-ethereum
+module github.com/malikankit/celo-blockchain
 
 go 1.13
 
